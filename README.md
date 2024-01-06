@@ -5,16 +5,18 @@ A responsive restaurant website 🍒 build using HTML and CSS.
 ## 💻 WebSite Screenshot:
 
 .![Application screenshot](./sample/screenshot01.png)
-<br/>
+<!-- <br/>
 .![Application screenshot](./sample/screenshot02.png)
 <br/>
-.![Application screenshot](./sample/screenshot03.png)
+.![Application screenshot](./sample/screenshot03.png) -->
 
 
 .
 .
 .
 made by ....
+<br/>
 Kishlay Bhaskar
+<br/>
 Thank You 🧑‍💻
 
