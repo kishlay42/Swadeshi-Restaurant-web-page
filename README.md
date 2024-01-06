@@ -4,7 +4,7 @@ A responsive restaurant website 🍒 build using HTML and CSS.
 
 ## 💻 WebSite Screenshot:
 
-.![Application screenshot](./sample/screenshot01.png)
+<img src="sample\Screenshot 01.png" alt="Alt text" title="Optional title">
 <!-- <br/>
 .![Application screenshot](./sample/screenshot02.png)
 <br/>
